@@ -2,7 +2,7 @@
 
 Sistema web de recepção para a **Clínica PetVida & Estética Animal**: agenda sem choque de horários, prontuário único que junta saúde e estética de cada pet e lembretes automáticos para os tutores via WhatsApp.
 
-**Acesse online:** https://SEU-USUARIO.github.io/petvida-clinica/
+**Acesse online:** https://lourencoterrana.github.io/Trabalho_Clinica_Petvida/
 
 ![Tela inicial do sistema PetVida](docs/telas/01-hoje.png)
 
@@ -145,7 +145,7 @@ flowchart LR
 ### Estrutura de pastas
 
 ```
-petvida-clinica/
+Trabalho_Clinica_Petvida/
 ├── index.html          # estrutura da página e navegação
 ├── css/
 │   └── styles.css      # identidade visual e layout responsivo
@@ -216,13 +216,13 @@ erDiagram
 ## 6. Como executar
 
 ### Online
-Acesse **https://SEU-USUARIO.github.io/petvida-clinica/**
+Acesse **https://lourencoterrana.github.io/Trabalho_Clinica_Petvida/**
 
 ### Localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/petvida-clinica.git
-cd petvida-clinica
+git clone https://github.com/lourencoterrana/Trabalho_Clinica_Petvida.git
+cd Trabalho_Clinica_Petvida
 ```
 
 Depois, **abra o arquivo `index.html` no navegador** (duplo clique). Não há dependências para instalar.
